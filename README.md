@@ -1,7 +1,7 @@
 # tasks-manager
 
 ## Introduction
-The following code is a task management tools.
+This is an example tasks manager tools for handling dependencies and activation.
 
 1. Add tasks with dependencies, and checks for circular dependencies as they are applied.
 1. Remove tasks provided they are not currently active.
